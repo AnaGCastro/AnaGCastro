@@ -1,10 +1,10 @@
 ♏: Olá me chamo Ana Paula Gonçalves Castro
-💙: Tenho 21 anos
+💙: Tenho 22 anos
 💚: Atualmente estou trabalhando na NAVA - Technology For Business
-💜: Estou no penultimo semestre do curso de Sistemas De Informação no Mackenzie
+💜: Concluía minha faculdad de Sistema de Informação - Mackenzie 
 🖥: A Àrea em que me encontro - Desenvolvedora Back-End
 💖: Paixão por Front-End
-💻: Hoje em dia estou me dedicando mais para as linguagens de HTML, CSS, Java, JavaScript, Typescript, Angular, Python e C#.
+💻: Hoje em dia estou me dedicando mais para as linguagens de Back-End, mas continuo estudando HTML, CSS, Java, JavaScript, Typescript, Angular, Python e C#.
 
 
 <div align="center">
