@@ -4,11 +4,6 @@
 <h1 align="center">Hello! I'm  Ana</h1>
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From Backend development using Java, Groovy, SQL and Git to Frontend development using HTML, CSS and Angular. I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AnaGCastro&theme=radical&mode=weekly" />
-
-</div>
-
  <div>
   <a href="https://github.com/AnaGCastro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaGCastro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
