@@ -4,6 +4,16 @@
 <h1 align="center">Hello! I'm  Ana</h1>
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From Backend development using Java, Groovy, SQL and Git to Frontend development using HTML, CSS and Angular. I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions.</p>&nbsp;
 
+
+<div>
+  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=LuigiGF&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiGF&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
+<br>
+
+
+
  <div>
   <a href="https://github.com/AnaGCastro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaGCastro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
