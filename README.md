@@ -1,5 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C49BD0&height=120&section=header"/>
-&nbsp;&nbsp;&nbsp;
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
 
 <h1 align="center">Hello! I'm  Ana</h1>
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From Backend development using Java, Groovy, SQL and Git to Frontend development using HTML, CSS and Angular. I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions.</p>&nbsp;
@@ -84,9 +83,5 @@
 <a href = "mailto:contato.anapj11@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rafael-ladeia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>  
 </div>&nbsp;&nbsp;
- 
 
-  
-  
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
