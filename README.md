@@ -8,7 +8,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaGCastro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaGCastro&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
+
+ <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
 ## My Skills
 
@@ -76,7 +77,9 @@
 &nbsp;
 &nbsp;
 
-## Contacts:
+<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+
+## Contact Me:
 
 <div> 
 
