@@ -9,6 +9,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaGCastro&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+<br/>
+
  <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
 ## My Skills
@@ -76,6 +78,8 @@
 
 &nbsp;
 &nbsp;
+
+<br />
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
