@@ -12,6 +12,7 @@
   
 
 ## My Skills
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,figma,vscode,git,github&theme=dark" />
 
 #### Main Stack:
 
