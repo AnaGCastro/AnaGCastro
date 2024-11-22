@@ -14,6 +14,7 @@
  <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
 ## My Skills
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,figma,vscode,git,github&theme=dark" />
 
 #### Main Stack:
 
